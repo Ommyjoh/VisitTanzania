@@ -803,7 +803,7 @@ nav{
     margin-right: 20px;
 }
 
-@media (max-width: 500px){
+@media (max-width: 800px){
     *{
         max-width: 100%;
     }
