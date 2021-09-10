@@ -884,7 +884,7 @@ nav{
     }
     .tab_down{
         width: 100%;
-        top: 60%;
+        top: 50%;
         display: flex;
         flex-direction: column;
         justify-content: center;
@@ -965,6 +965,7 @@ nav{
         margin-top: 15px;
         width: 110px;
         height: 1px;
+        margin-left: 38%;
         background-color: #FCD116;
       }
       .slide1 p{
@@ -982,7 +983,7 @@ nav{
     }
     .sub1{
         width: 100%;
-        height: 115px;
+        height: 120px;
         position: relative;
         margin-left: 0%;
         margin-right: 0%;
@@ -998,17 +999,17 @@ nav{
         flex-direction: row;
         justify-content: space-between;
         align-items: center;
-        background-color: rgba(0, 0, 0, 0.7);
+        background-color: rgba(0, 0, 0, 0);
     }
     .ov h3{
         color: #ffffff;
-        margin-top: 10%;
+        margin-top: 12%;
         font-size: 18px;
         font-weight: 500;
         margin-left: 3%;
     }
     .ov a{
-        margin-top: 9%;
+        margin-top: 10%;
         text-decoration: none;
         margin-right: 2%;
         padding: 5px 13px;
