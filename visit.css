@@ -803,7 +803,7 @@ nav{
     margin-right: 20px;
 }
 
-@media (max-width: 768px){
+@media (max-width: 500px){
     *{
         max-width: 100%;
     }
@@ -833,7 +833,7 @@ nav{
     .flag h1{
         padding-left: 8px;
         line-height: 10px;
-        font-size: 15px;
+        font-size: 13px;
     }
     .flag h1 small{
         font-size: 8px;
@@ -851,12 +851,12 @@ nav{
         margin-left: 2px;
     }
     .social{
-        margin-left: 18px;
-        padding-right: 5px;
+        margin-left: 10px;
+        padding-right: 2px;
     }
     .social a{
         text-decoration: none;
-        margin-right: 5px;
+        margin-right: 2px;
         font-size: 13px;
         color: #ffffff;
         transition: 0.8s;
@@ -983,7 +983,7 @@ nav{
     }
     .sub1{
         width: 100%;
-        height: 120px;
+        height: 117px;
         position: relative;
         margin-left: 0%;
         margin-right: 0%;
@@ -1153,8 +1153,8 @@ nav{
         
     }
     .steps_content img{
-        width: 130px;
-        height: 130px;
+        width: 118px;
+        height: 118px;
     }
     .steps_content img:hover{
         filter: blur(1px);
@@ -1360,7 +1360,7 @@ nav{
         flex-direction: row;
         justify-content: space-between;
         margin-top: 1%;
-        padding: 20px 30px;
+        padding: 10px 30px;
     }
     .slide5_d h3{
         font-weight: 200;
@@ -1372,6 +1372,6 @@ nav{
         display: flex;
     }
     .middle h3{
-        margin-right: 10px;
+        margin-right: 5px;
     }
 }
